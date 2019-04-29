@@ -1,0 +1,7 @@
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\bin\Debug\PizzaBoy.exe.config
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\bin\Debug\PizzaBoy.exe
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\bin\Debug\PizzaBoy.pdb
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\obj\Debug\PizzaBoy.csprojAssemblyReference.cache
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\obj\Debug\PizzaBoy.csproj.CoreCompileInputs.cache
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\obj\Debug\PizzaBoy.exe
+C:\Users\RAC\source\repos\PizzaBoy\PizzaBoy\obj\Debug\PizzaBoy.pdb
